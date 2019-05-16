@@ -1,9 +1,9 @@
 package com.nnxy.dsx;
 
 public class student {
-	private int id;
-	private String age;
-	private int sex;
+	private int id;//唯一标识
+	private String age;//年龄
+	private int sex;//性别
 	
 	
 	
